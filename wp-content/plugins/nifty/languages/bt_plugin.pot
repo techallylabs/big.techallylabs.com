@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-26 18:18+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: nifty.php:28
+msgid "Header Left Widgets"
+msgstr ""
+
+#: nifty.php:34
+msgid "Header Right Widgets"
+msgstr ""
+
+#: nifty.php:40
+msgid "Header Menu Widgets"
+msgstr ""
+
+#: nifty.php:46
+msgid "Header Logo Widgets"
+msgstr ""
+
+#: nifty.php:52
+msgid "Footer Widgets"
+msgstr ""
+
+#: nifty.php:69
+msgid "Portfolio"
+msgstr ""
+
+#: nifty.php:70
+msgid "Portfolio Item"
+msgstr ""
+
+#: nifty.php:79
+msgid "Portfolio Categories"
+msgstr ""
+
+#: nifty.php:109
+msgid "BB Button"
+msgstr ""
+
+#: nifty.php:111
+msgid "Button with icon, text and link."
+msgstr ""
+
+#: nifty.php:229
+msgid "Icon:"
+msgstr ""
+
+#: nifty.php:239
+msgid "Filter..."
+msgstr ""
+
+#: nifty.php:259
+msgid "Text:"
+msgstr ""
+
+#: nifty.php:263
+msgid "Style:"
+msgstr ""
+
+#: nifty.php:279
+msgid "Size:"
+msgstr ""
+
+#: nifty.php:295
+msgid "Color scheme:"
+msgstr ""
+
+#: nifty.php:311
+msgid "URL or slug:"
+msgstr ""
+
+#: nifty.php:315
+msgid "Target:"
+msgstr ""
+
+#: nifty.php:331
+msgid "CSS extra class:"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:107
+msgid "Price List"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:107
+msgid "List of items with total price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:109
+msgid "Icon"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:110
+msgid "Title"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:111
+msgid "Subtitle"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:112
+msgid "Currency"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:113
+msgid "Price"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:114
+msgid "Price detail"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:115
+msgid "Items"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:116
+msgid "Letter spacing (title)"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:116
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:125
+msgid "Design"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:118
+msgid "Default"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:119
+msgid "1px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:120
+msgid "2px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:121
+msgid "3px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:122
+msgid "4px"
+msgstr ""
+
+#: bold-page-builder/content_elements/bt_bb_price_list/bt_bb_price_list.php:125
+msgid "Background color"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:20
+msgid "Custom JS"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:46 framework_bt_plugin/framework.php:169
+#: framework_bt_plugin/framework.php:292 framework_bt_plugin/framework.php:421
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:70 framework_bt_plugin/framework.php:193
+#: framework_bt_plugin/framework.php:316 framework_bt_plugin/framework.php:436
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:95 framework_bt_plugin/framework.php:218
+#: framework_bt_plugin/framework.php:340
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:119 framework_bt_plugin/framework.php:242
+#: framework_bt_plugin/framework.php:364 framework_bt_plugin/framework.php:467
+msgid "Share on VK"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:143 framework_bt_plugin/framework.php:266
+#: framework_bt_plugin/framework.php:388 framework_bt_plugin/framework.php:483
+msgid "Share on WhatsApp"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:451
+msgid "Share on Linkedin"
+msgstr ""
